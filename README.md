@@ -25,3 +25,7 @@ A classic Snake Game built with Python using object-oriented programming princip
 - Classes and Methods
 - Python Modules
 - Game Logic
+  
+## Preview
+
+![Snake Game](snake_game.png)
